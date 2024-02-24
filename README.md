@@ -28,6 +28,6 @@ Check out the demo video to see how you might interact with the app.
 
 # Here is a high level architecture
 
-![Architecture](./static/architecture_tensorrt_rag.png)
+![Architecture](./static/architecture_final.png)
 
 
