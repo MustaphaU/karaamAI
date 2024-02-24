@@ -24,7 +24,7 @@ Your application should take about a minute to start up.. The little delay is ne
 
 Once ready, log in with the credentials provided in `credentials.txt` and click `submit`
 
-Check out the demo video to see how you might interact with the app.
+Check out the demo video to see how you might interact with the app.: https://youtu.be/opTpWnb6Ju8 
 
 # Here is a high level architecture
 
