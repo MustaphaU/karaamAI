@@ -26,6 +26,6 @@ Once ready, log in with the credentials provided in `credentials.txt` and click 
 
 Check out the demo video to see how you might interact with the app.
 
-
+![Architecture](./static/architecture_tensorrt_rag.png)
 
 
