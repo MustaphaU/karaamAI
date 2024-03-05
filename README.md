@@ -24,6 +24,8 @@ Your application should take about a minute to start up.. The little delay is ne
 
 Once ready, log in with the credentials provided in `credentials.txt` and click `submit`
 
+EDIT 04/03/2024: The API token in `credentials.txt` has been revoked by Atlassian for security reasons. Nonetheless, you should be able to login with your own credentials.
+
 Check out the demo video to see how you might interact with the app.: https://youtu.be/opTpWnb6Ju8 
 
 # Here is a high level architecture
