@@ -32,22 +32,5 @@ Check out the demo video to see how you might interact with the app.: https://yo
 
 ![Architecture](./static/architecture_final.png.png)
 
-# Motivation 
-Confluence by Atlassian improved project documentation, addressing the issue of timeline discrepancies and scope creep. However, the challenge of documentation overload remains, leaving new hires like Chloe to navigate through extensive documentation, and risking burnout.
-Chloe has been invited to a project on Atlassian Confluence. She feels nearly overwhelmed by the lengthy  documentation review required to contribute meaningfully to the project. 
-
-Enter KaraamAI! 
-
-KaraamAI will not only help Chloe to quickly get an in-depth gist of the project but will also facilitate new content creation by leveraging key ideas from the existing documentation in the team’s space. The content can be a long form article or a short PowerPoint presentation.
-Today, she is tasked with creating a blog and a short presentation on some new APIs. Luckily for Chloe, this API is well documented in the existing space.
-Chloe quickly launches the KaraamAI application and logs in with the required credentials.
-
-On successful login, all the articles in the Team’s space are downloaded and indexed in a FAISS vector store. 
-Next, she navigates to the content generation interface, enters the title of the article, and clicks submit.
-Once generation completes, she can edit, save the changes, and publish the refined version to the Confluence space.
-Similar steps can be followed for the short powerpoint presentation. 
-Once the presentation is generated, she can download as powerpoint to her device and carryout modifications if necessary. 
-Lastly, she can use the ‘Chat with Documentation’ functionality for interactive QA.
-
 
 
