@@ -7,7 +7,7 @@ langchain==0.0.312
 langsmith==0.0.43
 llama-index==0.8.33
 numpy==1.24.0
-onnx==1.14.1
+onnx==1.17.0
 openai==0.27.4
 openapi-schema-pydantic==1.2.4
 pandas==2.0.3
