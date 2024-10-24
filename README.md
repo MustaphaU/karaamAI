@@ -1,5 +1,3 @@
-# karaamAI
-
 ## Getting started
 1. Clone the repo: ```git clone https://github.com/MustaphaU/karaamAI.git```
 2. Navigate to the root folder: ```cd karaamAI```
