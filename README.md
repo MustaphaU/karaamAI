@@ -1,6 +1,12 @@
 ## Getting started
-1. Clone the repo: ```git clone https://github.com/MustaphaU/Simplify-Documentation-Review-on-Atlassian-Confluence-with-LLAMA2-and-NVIDIA-TensorRT-LLM.git```
-2. Navigate to the root folder: ```cd karaamAI```
+1. Clone the repo: 
+```
+git clone https://github.com/MustaphaU/Simplify-Documentation-Review-on-Atlassian-Confluence-with-LLAMA2-and-NVIDIA-TensorRT-LLM.git
+```
+2. Navigate to the root folder: 
+```
+cd Simplify-Documentation-Review-on-Atlassian-Confluence-with-LLAMA2-and-NVIDIA-TensorRT-LLM
+```
 3. Download the tensorrt-llm engine and the tensorrt wheel from here: https://www.dropbox.com/scl/fo/3406zfdaxb84o8vwiab8g/h?rlkey=2h599x22h2qa8zjy5028obsh3&dl=0
 4. Place the wheel in the `tensorrt_wheel` folder and place the engine in `llama2/engine`
 5. Install the tensorrt wheel:
